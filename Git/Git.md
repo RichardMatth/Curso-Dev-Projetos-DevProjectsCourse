@@ -11,3 +11,7 @@
   <li>Stash: Guarda modificações (wip) para continuar a trabalhar.</li>
   <li></li>
 </ul>
+
+
+## Comandos Git
+''' Console.log '''
