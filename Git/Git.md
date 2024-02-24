@@ -116,7 +116,7 @@ Git revert <hash do commit>
 <p>Apaga tags ou branchs:</p>
 
 ```
-git push origin --delete <nome da tag ou Branch>```
+git push origin --delete <nome da tag ou Branch>
 ```
 <br>
 
