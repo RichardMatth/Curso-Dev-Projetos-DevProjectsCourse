@@ -137,4 +137,16 @@ O texto fornece uma visão abrangente sobre os Sistemas de Informação (SI) e s
    - **Sistemas de Informação Executivos (SIE)**: Utilizados pela alta gestão das empresas para acesso rápido a informações atuais e relatórios gerenciais.
    - **Sistemas Especialistas (SE)**: Captam o conhecimento de especialistas em determinado campo e o transmitem ao usuário para fornecer respostas a perguntas relacionadas.
 
-4. **Sistema de Processamento de Transações (SPT)**: Monitora, coleta e processa dados gerados em 
+4. **Sistema de Processamento de Transações (SPT)**: Monitora, coleta e processa dados gerados em todas as transações da organização, armazenando-os em bancos de dados. Esses dados são utilizados por outros sistemas de informação, como os sistemas de informação gerencial, para tomada de decisão e controle de operações.
+
+5. **Sistema de Informações Gerenciais (SIG)**: Oferece informações aos gerentes de nível intermediário, acessando dados de diferentes bancos de dados corporativos e gerando relatórios para apoio ao planejamento, organização e controle de operações.
+
+6. **Sistema de Planejamento de Recursos Empresariais (ERP)**: É um conjunto de módulos de softwares interdependentes, ligados a um banco de dados comum, que apoia os processos organizacionais internos em áreas funcionais como Finanças e Contabilidade, fabricação e produção, vendas e marketing e recursos humanos. O ERP permite a integração de todas as informações que fluem pela empresa, facilitando a visualização completa das transações e processos de negócio.
+
+7. **Sistemas de Suporte ao Conhecimento (KWS)**: Auxiliam os especialistas e profissionais qualificados na criação e integração de novos conhecimentos na organização, como sistemas CAD, sistemas de modelagem e sistemas de simulação.
+
+8. **Sistemas Inter-organizacionais**: Permitem o fluxo de informação entre uma organização e seus fornecedores e clientes, contribuindo para redução de custos, melhoria da qualidade do fluxo de informações e facilitação do processamento de transações comerciais.
+
+Esses sistemas desempenham papéis distintos e complementares dentro das organizações, permitindo uma gestão mais eficiente e eficaz. Se precisar de mais informações sobre algum ponto específico ou tiver outras dúvidas, estou à disposição!
+
+
