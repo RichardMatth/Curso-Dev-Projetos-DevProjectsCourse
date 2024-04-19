@@ -1,4 +1,5 @@
-```Algoritmo Saque_dinheiro_caixa_eletronico
+```
+Algoritmo Saque_dinheiro_caixa_eletronico
 // rotina para sacar dinheiro em um caixa eletrônico
     Var
     VALOR_SAQUE, SALDO: real
@@ -24,5 +25,6 @@ Início
     Senão
         Escreva "Saldo insuficiente. Não será possível realizar a operação."
     Fim Se
-Fim```
+Fim
+```
 
