@@ -4,6 +4,7 @@
 
 <b>Exemplo 1:</b>
 
+```
 Algoritmo Saque_dinheiro_caixa_eletronico
 // rotina para sacar dinheiro em um caixa eletrônico
     Var
@@ -31,3 +32,4 @@ Início
         Escreva "Saldo insuficiente. Não será possível realizar a operação."
     Fim Se
 Fim
+```
