@@ -150,3 +150,79 @@ O texto fornece uma visão abrangente sobre os Sistemas de Informação (SI) e s
 Esses sistemas desempenham papéis distintos e complementares dentro das organizações, permitindo uma gestão mais eficiente e eficaz. Se precisar de mais informações sobre algum ponto específico ou tiver outras dúvidas, estou à disposição!
 
 
+
+============================================================================================================================================================================================================================
+
+
+Definições Fundamentais:
+
+Qual é a origem da palavra "tecnologia" e como ela é definida no texto?
+•	A palavra "tecnologia" tem origem no grego "tekhne" e abrange o conjunto de técnicas, habilidades, métodos e processos utilizados na produção de bens ou serviços.
+
+Explique o conceito de ciência conforme apresentado no texto.
+•	Ciência é derivada do latim "scientia" e refere-se ao conhecimento sistemático adquirido por meio do método científico.
+
+
+Evolução da Percepção de Ciência e Tecnologia:
+
+Como a percepção da ciência e tecnologia mudou após a Segunda Guerra Mundial, de acordo com o texto?
+•	Após a Segunda Guerra Mundial, houve uma mudança na percepção da ciência e tecnologia, onde inicialmente o desenvolvimento tecnológico era celebrado como uma força impulsionadora do progresso.
+
+Quais foram as características da Sociedade Industrial mencionadas no texto?
+•	A Sociedade Industrial é caracterizada pelo êxodo rural para as cidades, produção em larga escala e formação de cidades industriais.
+
+
+
+Relação entre Ciência, Tecnologia e Sociedade:
+
+Explique como a sociedade influencia o desenvolvimento da ciência e da tecnologia, conforme descrito no texto.
+•	A sociedade influencia a direção da pesquisa científica e o desenvolvimento tecnológico.
+
+De que forma a ciência e a tecnologia moldam a sociedade, de acordo com o texto?
+•	a ciência e tecnologia moldam a sociedade, influenciando sua organização, economia, cultura e estruturas de poder.
+
+
+
+Relacionamento Dialético:
+
+O que significa dizer que a relação entre ciência, tecnologia e sociedade é dialética? Forneça um exemplo conforme apresentado no texto.
+•	A relação entre ciência, tecnologia e sociedade é dialética, o que significa que cada um desses elementos está em constante interação e influencia os outros de maneira dinâmica.
+
+Como os avanços tecnológicos podem influenciar a sociedade, de acordo com a abordagem dialética descrita no texto?
+•	Avanços científicos podem levar ao desenvolvimento de novas tecnologias, que por sua vez impactam a sociedade, criando novas demandas e desafios.
+
+
+Considerações Éticas e Morais:
+
+Por que o desenvolvimento científico e tecnológico levanta questões éticas e morais importantes, de acordo com o texto?
+•	O desenvolvimento científico e tecnológico levanta questões éticas e morais importantes, especialmente em áreas como saúde e meio ambiente.
+
+Cite um exemplo de questão ética ou moral relacionada ao desenvolvimento científico e tecnológico mencionado no texto.
+•	Decisões sobre o uso e aplicação dessas descobertas muitas vezes geram debates sobre suas implicações sociais e éticas.
+
+Sociedade Agrícola, Industrial e da Informação:
+
+Quais são as características da Sociedade Agrícola descritas no texto?
+•	A Sociedade Agrícola é caracterizada pela vida rural, educação baseada na oralidade e produção artesanal.
+
+Explique o período e as características da Sociedade da Informação conforme apresentado no texto.
+•	A Sociedade da Informação é caracterizada pela predominância das TICs na vida cotidiana e integração global através da interconexão digital.
+
+
+Componentes das Tecnologias da Informação e Comunicação (TICs):
+
+Quais são os principais componentes das TICs mencionados no texto?
+•	Os principais componentes das TICs incluem hardware, software, redes de comunicação e internet.
+
+Dê exemplos de softwares e pacotes de aplicativos de escritório conforme abordado no texto.
+•	Exemplos de softwares e pacotes de aplicativos de escritório incluem Microsoft Office, OpenOffice.org, Apple iWork e Google Docs.
+
+Sistemas de Informação:
+
+Descreva os tipos de sistemas de informação mencionados no texto e suas principais funções.
+•	Os tipos de sistemas de informação incluem Sistemas de Apoio à Decisão, Sistemas de Informações Gerenciais, Sistemas de Processamento de Transações, Sistemas de Planejamento de Recursos Empresariais, entre outros.
+
+Qual é a importância dos sistemas de informação para as organizações, de acordo com o texto?
+•	Eles são importantes para coletar, armazenar, processar e disseminar informações significativas para os usuários e clientes das organizações.
+
+
