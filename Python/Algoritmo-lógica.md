@@ -8,7 +8,11 @@ As estruturas de seleção são usadas para que sejam estabelecidos caminhos dif
 </p>
 
 <h5>Simples (if):</h5> 
-<b>se, então, fim se (usado para testar uma única condição)</b>
+<p>
+ A estrutura de seleção simples faz uso da instrução SE (IF). Ela é utilizada quando queremos testar uma condição<br> antes de executarmos uma ou mais instruções.
+
+Nessa estrutura, somente teremos uma ação SE o resultado da condição for verdadeiro. Desse modo, não há ação a ser<br> executada caso o resultado seja falso.
+ se, então, fim se (usado para testar uma única condição)</p>
 
 ```
 1 - verifica a condição:
