@@ -23,7 +23,7 @@ Execurta o comando-X
 (Não executa o comando-a)
 ```
 
-<h5>Composta:</h5><b>SE, ENTÃO, SENÃO e FIM SE</b>
+<h5>Composta:</h5><p>SE, ENTÃO, SENÃO e FIM SE</p>
 
 ```
 1 - Verifica a condição:
