@@ -1,5 +1,9 @@
 <h3>Curso de lógica: Fundação Bradesco</h3>
 
+<p>
+As estruturas de seleção são usadas para que sejam estabelecidos caminhos diferentes de instruções, a serem percorridos a partir de tomadas de decisão. Justamente por isso, esses recursos podem ser chamados de estruturas de seleção ou estruturas de decisão.
+</p>
+
 <h5>Exemplos de pseudocódigo em portugol</h5>
 
 <b>Exemplo 1:</b>
