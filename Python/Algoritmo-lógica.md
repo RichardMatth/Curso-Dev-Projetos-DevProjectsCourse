@@ -34,6 +34,12 @@ SE CONDIÇÃO = VERDADEIRO  AÇÃO 1<br>
 SE CONDIÇÃO = FALSO  AÇÃO 2<br>
 <b>SE, ENTÃO, SENÃO e FIM SE</b></p>
 
+Indentificando:
+<b>Condição:</b>
+<b>SE</b> estiver chovendo
+<b>Então</b> verei televisão em casa
+<b>SENÃO</b> irei passear no parque
+
 ```
 1 - Verifica a condição:
 
