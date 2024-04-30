@@ -44,10 +44,9 @@ Executa o comando-X
 
 <h5>Múltipla:</h5>
 <p>
- Se" de forma encadeada (um dentro do outro)
+Utilizando recurso "Se" de forma encadeada (um dentro do outro)
 Marcadores: SE, ENTÃO, SENÃO e FIM SE
-
- Utilizando recurso "Faça Caso"
+Utilizando recurso "Faça Caso"
 Marcadores: FAÇA CASO, CASO, OUTRO CASO, FIM CASO.
 </p>
 
