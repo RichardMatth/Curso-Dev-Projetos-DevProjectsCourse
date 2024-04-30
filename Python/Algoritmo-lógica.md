@@ -29,7 +29,8 @@ Execurta o comando-X
 ```
 
 <h5>Composta:</h5>
-<p><b>SE, ENTÃO, SENÃO e FIM SE</b></p>
+<p>Na estrutura de seleção composta existem dois caminhos diferentes predeterminados.<br>
+<b>SE, ENTÃO, SENÃO e FIM SE</b></p>
 
 ```
 1 - Verifica a condição:
