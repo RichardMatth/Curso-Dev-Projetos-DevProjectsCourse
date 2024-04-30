@@ -4,7 +4,7 @@
 
 <p>
 As estruturas de seleção são usadas para que sejam estabelecidos caminhos diferentes de instruções, a serem percorridos a partir de tomadas de decisão. Justamente por isso, esses recursos podem ser chamados de estruturas de seleção ou estruturas de decisão.
-</p>
+</p><br>
 
 <h5>Simples (if):</h5> 
 <p>
@@ -26,6 +26,41 @@ Execurta o comando-B
 Execurta o comando-X
 (Não executa o comando-a)
 ```
+
+<br><h3>Exemplo de estrutura de seleção simples</h3>
+
+```
+Algoritmo situacaoAluno
+var
+
+n1, n2, media: real
+
+nome: literal
+ n1 = 0
+ n2 = 0
+ media = 0
+
+INICIO
+Escreva "Informe a primeira nota:"
+Leia N1
+Escreva "informe a segunda nota:"
+Leia N2
+Escreva "informe o nome do(a) aluno(a):"
+Leia Nome
+Media = (n1+n2) /2
+Escreva nome, n1, n2, media
+se media <6 então
+escreva "aluno(a) reprovado(a)"  
+fim se
+fim
+```
+
+<p>Identificando:<br>
+SE 'CONDIÇÃO' ENTÃO<br>
+	Comandos a serem executados somente se a condição for verdadeira<br>
+FIM SE
+</p>
+
 
 <br><br>
 
@@ -104,39 +139,6 @@ finalizaçãodo aninhamento
 
 <br><br>
 
-<br><h3>Exemplo de estrutura de seleção simples</h3>
-
-```
-Algoritmo situacaoAluno
-var
-
-n1, n2, media: real
-
-nome: literal
- n1 = 0
- n2 = 0
- media = 0
-
-INICIO
-Escreva "Informe a primeira nota:"
-Leia N1
-Escreva "informe a segunda nota:"
-Leia N2
-Escreva "informe o nome do(a) aluno(a):"
-Leia Nome
-Media = (n1+n2) /2
-Escreva nome, n1, n2, media
-se media <6 então
-escreva "aluno(a) reprovado(a)"  
-fim se
-fim
-```
-
-<p>Identificando:
-SE <CONDIÇÃO> ENTÃO<br>
-	Comandos a serem executados somente se a condição for verdadeira<br>
-FIM SE
-</p>
 
 
 
