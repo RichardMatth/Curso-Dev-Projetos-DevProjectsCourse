@@ -7,7 +7,8 @@
 As estruturas de seleção são usadas para que sejam estabelecidos caminhos diferentes de instruções, a serem percorridos a partir de tomadas de decisão. Justamente por isso, esses recursos podem ser chamados de estruturas de seleção ou estruturas de decisão.
 </p>
 
-<h5>Simples (if):</h5> <b>se, então, fim se (usado para testar uma única condição)</b>
+<h5>Simples (if):</h5> 
+<b>se, então, fim se (usado para testar uma única condição)</b>
 
 ```
 1 - verifica a condição:
@@ -23,7 +24,8 @@ Execurta o comando-X
 (Não executa o comando-a)
 ```
 
-<h5>Composta:</h5><p>SE, ENTÃO, SENÃO e FIM SE</p>
+<h5>Composta:</h5>
+<p><b>SE, ENTÃO, SENÃO e FIM SE</b></p>
 
 ```
 1 - Verifica a condição:
@@ -38,9 +40,20 @@ Executa o comando-B
 Executa o comando-X
 (não executa o comando-A)
 ```
-<h5>Múltipla:</h5>
 
-<b><font Color="red">Uso: Empregados em situações em que se faz necessário testar várias vezes a condição/variável.</font></b>
+
+<h5>Múltipla:</h5>
+<p>
+ Se" de forma encadeada (um dentro do outro)
+Marcadores: SE, ENTÃO, SENÃO e FIM SE
+
+ Utilizando recurso "Faça Caso"
+Marcadores: FAÇA CASO, CASO, OUTRO CASO, FIM CASO.
+</p>
+
+<p>
+ Uso: Empregados em situações em que se faz necessário testar várias vezes a condição/variável.
+</p>
 
 ```
 1 - Verifica a condição 1
