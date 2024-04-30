@@ -121,14 +121,14 @@ fim
 ```
 
 <p>Identificando:
-SE <CONDIÇÃO> ENTÃO
-	Comandos a serem executados somente se a condição for verdadeira
+SE <CONDIÇÃO> ENTÃO<br>
+	Comandos a serem executados somente se a condição for verdadeira<br>
 FIM SE
 </p>
 
 
 
-<br<br><h5>Exemplos de pseudocódigo em portugol</h5>
+<br><br><h5>Exemplos de pseudocódigo em portugol</h5>
 
 <b>Exemplo 1:</b>
 
