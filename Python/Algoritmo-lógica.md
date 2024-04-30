@@ -92,6 +92,36 @@ Executa o comando-X
 finalizaçãodo aninhamento
 ```
 
+<h3>Exemplo de estrutur de seleção simples</h3>
+
+```
+Algoritmo situacaoAluno
+var
+
+n1, n2, media: real
+
+nome: literal
+ n1 = 0
+ n2 = 0
+ media = 0
+
+INICIO
+Escreva "Informe a primeira nota:"
+Leia N1
+Escreva "informe a segunda nota:"
+Leia N2
+Escreva "informe o nome do(a) aluno(a):"
+Leia Nome
+Media = (n1+n2) /2
+Escreva nome, n1, n2, media
+se media <6 então
+escreva "aluno(a) reprovado(a)"  
+fim se
+fim
+```
+
+
+
 
 
 <h5>Exemplos de pseudocódigo em portugol</h5>
