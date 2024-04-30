@@ -33,3 +33,39 @@ Início
     Fim Se
 Fim
 ```
+
+<h3>Estruturas de Seleção</h3>
+
+
+<h5>Simples (if):</h5> <b>se, então, fim se (usado para testar uma única condição)</b>
+
+```
+1 - verifica a condição:
+
+2 - se a esposta for SIM:
+Execurta o comando-A
+Execurta o comando-B
+Execurta o comando-X
+
+3 - Se a resposta for NÃO:
+Execurta o comando-B
+Execurta o comando-X
+(Não executa o comando-a)
+```
+<h5>Composta</h5>
+
+```
+1 - Verifica a condição:
+
+2 - Se resposta for SIM:
+Executa o comando-A
+Executa o comando-X
+(não executa o comando-B)
+
+3 - Se resposta for NÃO:
+Executa o comando-B
+Executa o comando-X
+(não executa o comando-A)
+```
+
+
