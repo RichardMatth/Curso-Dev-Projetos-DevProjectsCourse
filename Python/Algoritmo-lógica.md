@@ -30,6 +30,8 @@ Execurta o comando-X
 
 <h5>Composta:</h5>
 <p>Na estrutura de seleção composta existem dois caminhos diferentes predeterminados.<br>
+SE CONDIÇÃO = VERDADEIRO  AÇÃO 1<br>
+SE CONDIÇÃO = FALSO  AÇÃO 2<br>
 <b>SE, ENTÃO, SENÃO e FIM SE</b></p>
 
 ```
