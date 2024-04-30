@@ -92,7 +92,7 @@ Executa o comando-X
 finalizaçãodo aninhamento
 ```
 
-<h3>Exemplo de estrutur de seleção simples</h3>
+<br<h3>Exemplo de estrutura de seleção simples</h3>
 
 ```
 Algoritmo situacaoAluno
@@ -124,7 +124,7 @@ fim
 
 
 
-<h5>Exemplos de pseudocódigo em portugol</h5>
+<br<br><h5>Exemplos de pseudocódigo em portugol</h5>
 
 <b>Exemplo 1:</b>
 
