@@ -92,7 +92,7 @@ Executa o comando-X
 finalizaçãodo aninhamento
 ```
 
-<br<h3>Exemplo de estrutura de seleção simples</h3>
+<br><h3>Exemplo de estrutura de seleção simples</h3>
 
 ```
 Algoritmo situacaoAluno
@@ -120,7 +120,11 @@ fim se
 fim
 ```
 
-
+<p>Identificando:
+SE <CONDIÇÃO> ENTÃO
+	Comandos a serem executados somente se a condição for verdadeira
+FIM SE
+</p>
 
 
 
