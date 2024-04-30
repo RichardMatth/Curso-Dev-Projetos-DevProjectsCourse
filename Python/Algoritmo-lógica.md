@@ -1,5 +1,4 @@
-<h3>Curso de lógica: Fundação Bradesco</h3>
-
+<h3>Curso de lógica: Fundação Bradesco</h3><br>
 
 <h3>Estruturas de Seleção</h3>
 
@@ -28,17 +27,19 @@ Execurta o comando-X
 (Não executa o comando-a)
 ```
 
+<br><br>
+
 <h5>Composta:</h5>
 <p>Na estrutura de seleção composta existem dois caminhos diferentes predeterminados.<br>
 SE CONDIÇÃO = VERDADEIRO  AÇÃO 1<br>
 SE CONDIÇÃO = FALSO  AÇÃO 2<br>
 <b>SE, ENTÃO, SENÃO e FIM SE</b></p>
 
-Indentificando:
-<b>Condição:</b>
-<b>SE</b> estiver chovendo
-<b>Então</b> verei televisão em casa
-<b>SENÃO</b> irei passear no parque
+Indentificando:<br>
+<b>Condição:</b><br>
+<b>SE</b> estiver chovendo<br>
+<b>Então</b> verei televisão em casa<br>
+<b>SENÃO</b> irei passear no parque<br><br>
 
 ```
 1 - Verifica a condição:
@@ -100,6 +101,8 @@ Executa o comando-X
 
 finalizaçãodo aninhamento
 ```
+
+<br><br>
 
 <br><h3>Exemplo de estrutura de seleção simples</h3>
 
