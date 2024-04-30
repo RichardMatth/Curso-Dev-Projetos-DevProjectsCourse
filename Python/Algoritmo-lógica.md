@@ -52,7 +52,8 @@ Execurta o comando-B
 Execurta o comando-X
 (Não executa o comando-a)
 ```
-<h5>Composta</h5>
+
+<h5>Composta:</h5><b>SE, ENTÃO, SENÃO e FIM SE()</b>
 
 ```
 1 - Verifica a condição:
@@ -67,5 +68,40 @@ Executa o comando-B
 Executa o comando-X
 (não executa o comando-A)
 ```
+<h5>Múltipla:</h5><b></b>
+
+```
+1 - Verifica a condição 1
+
+2 - se a resposta for sim:
+Executa o comando-A
+Executa o comando-X
+(não executa o comando-B e comando-C)
+
+3 - Se a reposta for não:
+ 
+4 - Verifica a condição 2:
+
+5 - Se a resposta for sim:
+Executa o comando-B
+Executa o comando-X
+(não executa o comando-A e comando-C)
+
+6 - Se a resposta for não:
+
+7 - Verifica a condição 3:
+
+8 - Se a resposta for sim:
+Executa o comando-C
+Executa o comando-X
+(não executa o comando-b e comando-a)
+
+9 - Se a resposta for não:
+Executa o comando-X
+(não executa o comando-a, comando-b e comando-c)
+
+finalizaçãodo aninhamento
+```
+
 
 
