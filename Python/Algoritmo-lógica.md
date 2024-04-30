@@ -68,7 +68,9 @@ Executa o comando-B
 Executa o comando-X
 (não executa o comando-A)
 ```
-<h5>Múltipla:</h5><b></b>
+<h5>Múltipla:</h5>
+
+<b><font Color="red">Uso: Empregados em situações em que se faz necessário testar várias vezes a condição/variável.</font></b>
 
 ```
 1 - Verifica a condição 1
