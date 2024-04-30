@@ -44,10 +44,11 @@ Executa o comando-X
 
 <h5>Múltipla:</h5>
 <p>
-Utilizando recurso "Se" de forma encadeada (um dentro do outro)
-Marcadores: SE, ENTÃO, SENÃO e FIM SE
-Utilizando recurso "Faça Caso"
-Marcadores: FAÇA CASO, CASO, OUTRO CASO, FIM CASO.
+Utilizando recurso "Se" de forma encadeada (um dentro do outro)<br>
+Marcadores: <b>SE, ENTÃO, SENÃO e FIM SE</b>
+ <br>
+Utilizando recurso "Faça Caso"<br>
+Marcadores: <b>FAÇA CASO, CASO, OUTRO CASO, FIM CASO</b>
 </p>
 
 <p>
