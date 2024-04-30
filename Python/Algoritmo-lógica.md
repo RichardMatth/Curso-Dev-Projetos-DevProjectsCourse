@@ -1,8 +1,6 @@
 <h3>Curso de lógica: Fundação Bradesco</h3>
 
 
-
-
 <h3>Estruturas de Seleção</h3>
 
 <p>
@@ -25,7 +23,7 @@ Execurta o comando-X
 (Não executa o comando-a)
 ```
 
-<h5>Composta:</h5><b>SE, ENTÃO, SENÃO e FIM SE()</b>
+<h5>Composta:</h5><b>SE, ENTÃO, SENÃO e FIM SE</b>
 
 ```
 1 - Verifica a condição:
