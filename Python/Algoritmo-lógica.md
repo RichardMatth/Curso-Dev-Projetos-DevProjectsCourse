@@ -1,45 +1,13 @@
 <h3>Curso de lógica: Fundação Bradesco</h3>
 
-<p>
-As estruturas de seleção são usadas para que sejam estabelecidos caminhos diferentes de instruções, a serem percorridos a partir de tomadas de decisão. Justamente por isso, esses recursos podem ser chamados de estruturas de seleção ou estruturas de decisão.
-</p>
 
-<h5>Exemplos de pseudocódigo em portugol</h5>
 
-<b>Exemplo 1:</b>
-
-```
-Algoritmo Saque_dinheiro_caixa_eletronico
-// rotina para sacar dinheiro em um caixa eletrônico
-    Var
-    VALOR_SAQUE, SALDO: real
-    SENHA_SAQUE, NUM_AGENCIA, NUN_CONTA: inteiro
-        VALOR_SAQUE = 0
-        SENHA_SAQUE = 0
-        NUN_CONTA = 0
-Início
-    Escreva "Seja bem-vindo!"
-    Escreva "Informe o número da sua agência:"
-    Leia NUM_AGENCIA
-    Escreva "Informe o número da sua conta:"
-    Leia NUN_CONTA
-// após ler os dados, o sistema deverá trazer do banco de dados o valor do saldo do usuário na variável SALDO
-    Escreva "Informe o valor que você do saque:"
-    Leia VALOR_SAQUE
-    Se VALOR_SAQUE> 0 e VALOR_SAQUE<= SALDO Então
-        SALDO = SALDO - VALOR_SAQUE
-        Escreva "Saque efetuado com sucesso. Seu saldo atual é R$:"
-        Escreva SALDO
-// após apresentar o novo saldo o sistema deve fazer a cntagem das notas e disponibilizar a quantia sacada ao usuário
-        Escreva "Retire o cartão, o dinheiro e o comprovante de saque."
-    Senão
-        Escreva "Saldo insuficiente. Não será possível realizar a operação."
-    Fim Se
-Fim
-```
 
 <h3>Estruturas de Seleção</h3>
 
+<p>
+As estruturas de seleção são usadas para que sejam estabelecidos caminhos diferentes de instruções, a serem percorridos a partir de tomadas de decisão. Justamente por isso, esses recursos podem ser chamados de estruturas de seleção ou estruturas de decisão.
+</p>
 
 <h5>Simples (if):</h5> <b>se, então, fim se (usado para testar uma única condição)</b>
 
@@ -107,6 +75,42 @@ Executa o comando-X
 (não executa o comando-a, comando-b e comando-c)
 
 finalizaçãodo aninhamento
+```
+
+
+
+<h5>Exemplos de pseudocódigo em portugol</h5>
+
+<b>Exemplo 1:</b>
+
+```
+Algoritmo Saque_dinheiro_caixa_eletronico
+// rotina para sacar dinheiro em um caixa eletrônico
+    Var
+    VALOR_SAQUE, SALDO: real
+    SENHA_SAQUE, NUM_AGENCIA, NUN_CONTA: inteiro
+        VALOR_SAQUE = 0
+        SENHA_SAQUE = 0
+        NUN_CONTA = 0
+Início
+    Escreva "Seja bem-vindo!"
+    Escreva "Informe o número da sua agência:"
+    Leia NUM_AGENCIA
+    Escreva "Informe o número da sua conta:"
+    Leia NUN_CONTA
+// após ler os dados, o sistema deverá trazer do banco de dados o valor do saldo do usuário na variável SALDO
+    Escreva "Informe o valor que você do saque:"
+    Leia VALOR_SAQUE
+    Se VALOR_SAQUE> 0 e VALOR_SAQUE<= SALDO Então
+        SALDO = SALDO - VALOR_SAQUE
+        Escreva "Saque efetuado com sucesso. Seu saldo atual é R$:"
+        Escreva SALDO
+// após apresentar o novo saldo o sistema deve fazer a cntagem das notas e disponibilizar a quantia sacada ao usuário
+        Escreva "Retire o cartão, o dinheiro e o comprovante de saque."
+    Senão
+        Escreva "Saldo insuficiente. Não será possível realizar a operação."
+    Fim Se
+Fim
 ```
 
 
