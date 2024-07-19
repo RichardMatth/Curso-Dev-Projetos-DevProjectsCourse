@@ -13,7 +13,7 @@ public class Menor {
     num2 = teclado.nextInt();
     
     if (num1 < num2) {
-    System.out.println(num1 + "é menor que " + num2);
+    System.out.println(num1 + "eh menor que " + num2);
     }
     
     System.out.printf("Fim do programa.");
